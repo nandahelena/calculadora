@@ -12,12 +12,18 @@
   <a href="https://github.com/nandahelena/calculadora/actions/workflows/blank.yml">
     <img src="https://img.shields.io/github/actions/workflow/status/nandahelena/calculadora/blank.yml?branch=main&label=CI&logo=github&style=flat-square" alt="CI Status"/>
   </a>
-<a href="https://github.com/nandahelena/calculadora/blob/main/LICENSE">
-  <img src="https://img.shields.io/github/license/nandahelena/calculadora?style=flat-square" alt="License"/>
-</a>
-  <a href="https://github.com/nandahelena/calculadora/stargazers">
-    <img src="https://img.shields.io/github/stars/nandahelena/calculadora?style=flat-square" alt="Stars"/>
+
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square&logo=python" alt="Python version"/>
   </a>
+
+  <a href="https://github.com/nandahelena/calculadora/commits/main">
+    <img src="https://img.shields.io/github/last-commit/nandahelena/calculadora/main?style=flat-square" alt="Last Commit"/>
+  </a>
+
+<a href="https://pypi.org/project/calculadora/">
+  <img src="https://img.shields.io/pypi/dm/calculadora?style=flat-square" alt="PyPI downloads"/>
+</a>
 </p>
 
 ---
