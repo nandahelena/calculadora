@@ -12,7 +12,7 @@
   <a href="https://github.com/nandahelena/calculadora/actions/workflows/blank.yml">
     <img src="https://img.shields.io/github/actions/workflow/status/nandahelena/calculadora/blank.yml?branch=main&label=CI&logo=github&style=flat-square" alt="CI Status"/>
   </a>
-<a href="https://github.com/nandahelena/calculadora/blob/LICENSE">
+<a href="https://github.com/nandahelena/calculadora/blob/main/LICENSE">
   <img src="https://img.shields.io/github/license/nandahelena/calculadora?style=flat-square" alt="License"/>
 </a>
   <a href="https://github.com/nandahelena/calculadora/stargazers">
